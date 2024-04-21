@@ -10,7 +10,7 @@ A new explorer of Web Development
 * **⚡  More about me:** The more i get tired the more i get focused
 
 
-### Skills
+### Languages & Tools
 
 
 <p align="left">
