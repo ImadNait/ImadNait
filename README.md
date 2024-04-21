@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **naitmihoubimzd@gmail.com**
 
-- ⚡ Fun fact **The more i get tired i get focused**
+- ⚡ Fun fact about me: **The more i get tired the more i get focused**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
