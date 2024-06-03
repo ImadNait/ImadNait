@@ -1,9 +1,7 @@
-Heyy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>
-I'm Imad Nait Mihoub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A955EC&center=true&random=false&width=700&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+new+explorer+of+Web+Development)](https://git.io/typing-svg)
 ========================================================================================================================================
 
-A new explorer of Web Development
----------------------------------
+
 
 *   🧑🏻‍🎓  I'm a 1st year CS student at **USTHB**
 *   🧠  Currently, i'm learning and focusing on Back-end development
