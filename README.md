@@ -8,7 +8,7 @@
 
 
 *   🧑🏻‍🎓  I'm a 1st year CS student at **USTHB**
-*   🧠  Currently, i'm learning and focusing on Back-end development & building web apps
+*   👨🏻‍💻  Currently, i'm learning and focusing on Back-end development & building web apps
 *   ✉️  You can contact me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com)
 * **⚡  More about me:** The more i get tired the more i get focused
 
