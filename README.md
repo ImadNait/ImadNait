@@ -11,7 +11,6 @@
 *   🧠  Currently, i'm learning and focusing on Back-end development & building web apps
 *   👨🏻‍💻  Web developer at [MicroClub](https://www.instagram.com/microclub_usthb?igsh=M2cyd3VqbTgzc2R2) and [GDG Algiers](https://www.instagram.com/gdg_algiers?igsh=Y2tyMjZmczl3aWRs)
 *   ✉️  You can contact me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com)
-* **⚡  More about me:** The more i get tired the more i get focused
 
 
 ## Languages & Tools
