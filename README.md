@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A955EC&center=true&random=false&width=700&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+new+explorer+of+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A955EC&center=true&random=false&width=700&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+junior+Backend+developer)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 ![200w](https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3)
@@ -7,7 +7,7 @@
 
 
 
-*   🧑🏻‍🎓  I'm a 1st year Computer Science student at [USTHB](https://www.usthb.dz/)
+*   🧑🏻‍🎓  I'm a 2nd year Computer Science student at [USTHB](https://www.usthb.dz/)
 *   🧠  Right now, i'm learning and focusing on Back-end development & building web apps
 *   👨🏻‍💻  Current Web developer at [MicroClub](https://www.instagram.com/microclub_usthb?igsh=M2cyd3VqbTgzc2R2) and [GDG Algiers](https://www.instagram.com/gdg_algiers?igsh=Y2tyMjZmczl3aWRs)
 *   ✉️  Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com)
