@@ -34,8 +34,7 @@
 ## Badges
 
 ### My GitHub Stats
-
-<a href="http://www.github.com/ImadNait"><img src="https://github-readme-stats.vercel.app/api?username=ImadNait&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ImadNait's GitHub stats" /></a>
-
-<a href="http://www.github.com/ImadNait"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br>
-<a href="https://github.com/Imad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ImadNait"><img src="https://github-readme-stats.vercel.app/api?username=ImadNait&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ImadNait's GitHub stats" /></a><br>
+<a href="http://www.github.com/ImadNait"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
+<a href="https://github.com/ImadNait" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
