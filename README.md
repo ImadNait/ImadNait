@@ -34,7 +34,12 @@
 ## Badges
 
 ### My GitHub Stats
-<a href="http://www.github.com/ImadNait"><img src="https://github-readme-stats.vercel.app/api?username=ImadNait&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ImadNait's GitHub stats" /></a><br>
-<a href="http://www.github.com/ImadNait"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br>
-<a href="https://github.com/ImadNait" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api?username=ImadNait&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ImadNait&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ImadNait&icon=0&color=0)](https://visitcount.itsvg.in)
