@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=70a6fd&center=true&random=false&width=700&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+junior+Backend+developer)](https://git.io/typing-svg)
 ========================================================================================================================================
 
-![500w](https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3)
+![200w](https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3)
 
 
 *   🧑🏻‍🎓  I'm a 2nd year Computer Science student at [USTHB](https://www.usthb.dz/).
