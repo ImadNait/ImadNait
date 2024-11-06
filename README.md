@@ -1,10 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=A955EC&center=true&random=false&width=700&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+junior+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=70a6fd&center=true&random=false&width=800&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+junior+Backend+developer)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 ![500w](https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3)
-
-
-
 
 
 *   🧑🏻‍🎓  I'm a 2nd year Computer Science student at [USTHB](https://www.usthb.dz/).
@@ -35,3 +32,17 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImadNait&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&theme=tokyonight&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=ImadNait&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
