@@ -32,17 +32,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImadNait&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&theme=tokyonight&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=ImadNait&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ImadNait&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImadNait&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
