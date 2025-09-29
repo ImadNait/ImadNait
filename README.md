@@ -4,7 +4,7 @@
 ![200w](https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3)
 
 
-*   🧑🏻‍🎓  I'm a 2nd year Computer Science student at [USTHB](https://www.usthb.dz/).
+*   🧑🏻‍🎓  I'm a 3rd year Computer Science student at [USTHB](https://www.usthb.dz/).
 *   🧠  Right now, i'm focusing on Back-end development & building web apps.
 *   👨🏻‍💻  Current Web developer at [MicroClub](https://www.microclub.info/), [GDG Algiers](https://www.gdgalgiers.dev/),and [CSE](https://cse.club/).
 *   ✉️  Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com).
