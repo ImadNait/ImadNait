@@ -5,7 +5,7 @@
 
 
 *   🧑🏻‍🎓  I'm a 3rd year Computer Science student at [USTHB](https://www.usthb.dz/).
-*   🧠  Right now, i'm focusing on Back-end development & building web apps.
+*   🎯  Right now, i'm focusing on Back-end development & building web apps.
 *   👨🏻‍💻  Current Web developer at [MicroClub](https://www.microclub.info/), [GDG Algiers](https://www.gdgalgiers.dev/),and [CSE](https://cse.club/).
 *   ✉️  Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com).
 
