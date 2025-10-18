@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=DF4A4B&center=true&width=900&height=90&lines=Heyyy%F0%9F%91%8B%F0%9F%8F%BB;I'm+Imad+Nait+Mihoub;A+junior+web+developer)](https://git.io/typing-svg)
 ========================================================================================================================================
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3" width="200"/>
-</p>
+<img src="https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3" width="200" align="right"/>
 
-*   🧑🏻‍🎓  I'm a 3rd year Computer Science student at [USTHB](https://www.usthb.dz/).
-*   🎯  Right now, i'm focusing on Back-end development & building web apps.
-*   👨🏻‍💻  Current Web developer at [MicroClub](https://www.microclub.info/), [GDG Algiers](https://www.gdgalgiers.dev/),and [CSE](https://cse.club/).
-*   ✉️  Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com).
+* 🧑🏻‍🎓 I'm a 3rd year Computer Science student at [USTHB](https://www.usthb.dz/).
+* 🎯 Right now, I'm focusing on Back-end development & building web apps.
+* 👨🏻‍💻 Current Web developer at [MicroClub](https://www.microclub.info/), [GDG Algiers](https://www.gdgalgiers.dev/), and [CSE](https://cse.club/).
+* ✉️ Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com).
+
 
 ## Languages & Tools
 
