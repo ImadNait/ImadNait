@@ -3,9 +3,9 @@
 
 <img src="https://github.com/user-attachments/assets/89d884d9-be47-45df-9a51-5a0dcd3351a3" width="200" align="right"/>
 
-* 🧑🏻‍🎓 I'm a 3rd year Computer Science student at [USTHB](https://www.usthb.dz/).
-* 🎯 Right now, I'm focusing on Back-end development & building web apps.
-* 👨🏻‍💻 Current Web developer at [MicroClub](https://www.microclub.info/) and [GDG Algiers](https://www.gdgalgiers.dev/).
+* 🧑🏻‍🎓 I'm an AI Engineering student at [USTHB](https://finfo.usthb.dz/).
+* 🎯 Right now, I'm focusing on Back-end development & building AI agents.
+* 👨🏻‍💻 Current Developer at [MicroClub](https://www.microclub.info/) and [GDG Algiers](https://www.gdgalgiers.dev/).
 * ✉️ Feel free to reach me at [naitmihoubimzd@gmail.com](mailto:naitmihoubimzd@gmail.com).
 
 
